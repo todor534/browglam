@@ -1,0 +1,140 @@
+{
+  "brand": {
+    "name": "BrowGlam",
+    "accent": "#A67C52"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Perfect Your Brows Today",
+      "subheadline": "Expert eyebrow shaping and styling for a flawless look. Book your appointment now and enhance your natural beauty.",
+      "primaryCta": {
+        "label": "Book Now",
+        "href": "/book"
+      },
+      "image": {
+        "kind": "url",
+        "name": "Eyebrow shaping",
+        "url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Expert Shaping",
+          "desc": "Get perfectly sculpted brows tailored to your face shape by our skilled professionals."
+        },
+        {
+          "title": "Premium Products",
+          "desc": "We use only high-quality, skin-friendly products for lasting, beautiful results."
+        },
+        {
+          "title": "Personalized Consultation",
+          "desc": "Enjoy a one-on-one consultation to find the best brow style for you."
+        },
+        {
+          "title": "Hygienic Practices",
+          "desc": "Our studio follows strict hygiene protocols to ensure your safety and comfort."
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Jessica M.",
+          "quote": "My brows have never looked better! The service was quick and professional."
+        },
+        {
+          "name": "Alicia R.",
+          "quote": "I get compliments on my eyebrows all the time now. Highly recommend!"
+        },
+        {
+          "name": "Samantha T.",
+          "quote": "The results are natural and flawless. I won't go anywhere else for my brows."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Basic Brow Shaping",
+          "price": "$25",
+          "period": "per session",
+          "features": [
+            "Expert brow shaping",
+            "Personalized consultation",
+            "Quick 20-minute service"
+          ]
+        },
+        {
+          "name": "Brow Tint & Shape",
+          "price": "$40",
+          "period": "per session",
+          "features": [
+            "Brow shaping included",
+            "Custom brow tint",
+            "Long-lasting color (up to 4 weeks)"
+          ]
+        },
+        {
+          "name": "Brow Lamination Package",
+          "price": "$70",
+          "period": "per session",
+          "features": [
+            "Brow lamination treatment",
+            "Shaping and tint included",
+            "Full, defined brows for up to 6 weeks"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What eyebrow services do you offer?",
+          "a": "We offer eyebrow shaping, tinting, microblading, and lamination to help you achieve your desired look."
+        },
+        {
+          "q": "How long does an eyebrow appointment take?",
+          "a": "Most appointments take between 30 to 60 minutes, depending on the service you choose."
+        },
+        {
+          "q": "Is eyebrow microblading safe?",
+          "a": "Yes, our certified technicians use sterile tools and follow strict hygiene protocols to ensure your safety."
+        },
+        {
+          "q": "How should I prepare for my eyebrow appointment?",
+          "a": "Please arrive with clean skin and avoid using any makeup or skincare products on your brows before your appointment."
+        },
+        {
+          "q": "How long do the results last?",
+          "a": "Results vary by service: shaping and tinting last 2-4 weeks, while microblading can last up to 18 months with proper care."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Get Perfect Brows Today! Book Your Appointment Now.",
+      "cta": {
+        "label": "Book Now",
+        "href": "/book"
+      }
+    },
+    {
+      "type": "LeadCapture",
+      "headline": "Get Perfect Brows—Book Your Free Consultation",
+      "placeholder": "Enter your email address",
+      "button": "Get Started"
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 BrowBeauty. Perfect brows, every time."
+    }
+  ]
+}
